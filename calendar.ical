@@ -1,2 +1,128 @@
 BEGIN:VCALENDAR
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220902T143000
+DTEND;TZID=Indian/Reunion:20220902T153000
+CATEGORIES:Conference
+SUMMARY:B-ADM-500 >> Administrative start of the year
+DESCRIPTION:Conference\nAdministrative start of the year\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220902T153000
+DTEND;TZID=Indian/Reunion:20220902T173000
+CATEGORIES:Conference
+SUMMARY:B-ADM-500 >> Units introduction
+DESCRIPTION:Conference\nUnits introduction\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220907T130000
+DTEND;TZID=Indian/Reunion:20220907T134500
+CATEGORIES:Conference
+SUMMARY:B-MOO-500 >> Ideation Talk - ECONOMY
+DESCRIPTION:Conference\nIdeation Talk - ECONOMY\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220907T134500
+DTEND;TZID=Indian/Reunion:20220907T143000
+CATEGORIES:Debriefing
+SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - ECONOMY
+DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - ECONOMY\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220908T130000
+DTEND;TZID=Indian/Reunion:20220908T134500
+CATEGORIES:Conference
+SUMMARY:B-MOO-500 >> Ideation Talk - SOCIETY
+DESCRIPTION:Conference\nIdeation Talk - SOCIETY\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220908T134500
+DTEND;TZID=Indian/Reunion:20220908T143000
+CATEGORIES:Debriefing
+SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - SOCIETY
+DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - SOCIETY\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220909T140000
+DTEND;TZID=Indian/Reunion:20220909T160000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - Root Causes Analysis
+DESCRIPTION:Workshop\nWorkshop - Root Causes Analysis\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220905T110000
+DTEND;TZID=Indian/Reunion:20220905T120000
+CATEGORIES:Kick-off
+SUMMARY:B-MOO-500 >> Kick-off - Innovation Track Step 1.1 - RESOLVE
+DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 1.1 - RESOLVE\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220905T130000
+DTEND;TZID=Indian/Reunion:20220905T134500
+CATEGORIES:Conference
+SUMMARY:B-MOO-500 >> Ideation Talk - CLIMAT
+DESCRIPTION:Conference\nIdeation Talk - CLIMAT\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220905T134500
+DTEND;TZID=Indian/Reunion:20220905T143000
+CATEGORIES:Debriefing
+SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - CLIMAT
+DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - CLIMAT\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220905T160000
+DTEND;TZID=Indian/Reunion:20220905T180000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Coaching
+DESCRIPTION:Workshop\nCoaching\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220906T090000
+DTEND;TZID=Indian/Reunion:20220906T100000
+CATEGORIES:Follow-up
+SUMMARY:B-MOO-500 >> Coaching 2
+DESCRIPTION:Follow-up\nCoaching 2\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220906T130000
+DTEND;TZID=Indian/Reunion:20220906T134500
+CATEGORIES:Conference
+SUMMARY:B-MOO-500 >> Ideation Talk - HEALTH
+DESCRIPTION:Conference\nIdeation Talk - HEALTH\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220906T150000
+DTEND;TZID=Indian/Reunion:20220906T154500
+CATEGORIES:Debriefing
+SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - HEALTH
+DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - HEALTH\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220907T150000
+DTEND;TZID=Indian/Reunion:20220907T154500
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - GameStorming
+DESCRIPTION:Workshop\nWorkshop - GameStorming\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220905T150000
+DTEND;TZID=Indian/Reunion:20220905T154500
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - GameStorming
+DESCRIPTION:Workshop\nWorkshop - GameStorming\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220908T150000
+DTEND;TZID=Indian/Reunion:20220908T154500
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - GameStorming
+DESCRIPTION:Workshop\nWorkshop - GameStorming\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220912T093000
+DTEND;TZID=Indian/Reunion:20220912T100000
+CATEGORIES:Kick-off
+SUMMARY:B-MOO-500 >> Kick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION
+DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION\nMargaret
+END:VEVENT
 END:VCALENDAR
