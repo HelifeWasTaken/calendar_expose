@@ -132,4 +132,18 @@ CATEGORIES:Kick-off
 SUMMARY:B-MOO-500 >> Kick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION
 DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION\nMargaret
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220913T093000
+DTEND;TZID=Indian/Reunion:20220913T110000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - Ask Expert / How might we
+DESCRIPTION:Workshop\nWorkshop - Ask Expert / How might we\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220913T110000
+DTEND;TZID=Indian/Reunion:20220913T123000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - Long term goals / Sprint questions
+DESCRIPTION:Workshop\nWorkshop - Long term goals / Sprint questions\nTim + Grace
+END:VEVENT
 END:VCALENDAR
