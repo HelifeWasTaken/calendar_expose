@@ -56,6 +56,34 @@ SUMMARY:B-MOO-500 >> Workshop - Root Causes Analysis
 DESCRIPTION:Workshop\nWorkshop - Root Causes Analysis\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220913T140000
+DTEND;TZID=Indian/Reunion:20220913T153000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - User maps
+DESCRIPTION:Workshop\nWorkshop - User maps\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220913T153000
+DTEND;TZID=Indian/Reunion:20220913T170000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - 4 part sketching
+DESCRIPTION:Workshop\nWorkshop - 4 part sketching\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220919T093000
+DTEND;TZID=Indian/Reunion:20220919T100000
+CATEGORIES:Kick-off
+SUMMARY:B-CPP-500 >> Kick-off - Advanced C++
+DESCRIPTION:Kick-off\nKick-off - Advanced C++\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220920T140000
+DTEND;TZID=Indian/Reunion:20220920T143000
+CATEGORIES:Kick-off
+SUMMARY:B-MOO-501 >> Kick-off - Innovation Track Step 2 - IMPROVE
+DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 2 - IMPROVE\nMargaret
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220905T110000
 DTEND;TZID=Indian/Reunion:20220905T120000
 CATEGORIES:Kick-off
@@ -152,5 +180,19 @@ DTEND;TZID=Indian/Reunion:20220913T123000
 CATEGORIES:Workshop
 SUMMARY:B-MOO-500 >> Workshop - Long term goals / Sprint questions
 DESCRIPTION:Workshop\nWorkshop - Long term goals / Sprint questions\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220914T093000
+DTEND;TZID=Indian/Reunion:20220914T110000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - Art museum / Heat maps
+DESCRIPTION:Workshop\nWorkshop - Art museum / Heat maps\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220914T110000
+DTEND;TZID=Indian/Reunion:20220914T123000
+CATEGORIES:Workshop
+SUMMARY:B-MOO-500 >> Workshop - Speed Critic / Straw poll
+DESCRIPTION:Workshop\nWorkshop - Speed Critic / Straw poll\nTim + Grace
 END:VEVENT
 END:VCALENDAR
