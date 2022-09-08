@@ -35,6 +35,13 @@ SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - ECONOMY
 DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - ECONOMY\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220908T100000
+DTEND;TZID=Indian/Reunion:20220908T120000
+CATEGORIES:Pitch
+SUMMARY:B-MOO-500 >> Pitch - ECONOMY
+DESCRIPTION:Pitch\nPitch - ECONOMY\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220908T130000
 DTEND;TZID=Indian/Reunion:20220908T134500
 CATEGORIES:Conference
@@ -194,5 +201,12 @@ DTEND;TZID=Indian/Reunion:20220914T123000
 CATEGORIES:Workshop
 SUMMARY:B-MOO-500 >> Workshop - Speed Critic / Straw poll
 DESCRIPTION:Workshop\nWorkshop - Speed Critic / Straw poll\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220914T140000
+DTEND;TZID=Indian/Reunion:20220914T150000
+CATEGORIES:Talk
+SUMMARY:B-INN-000 >> Talk: PimpMyApp
+DESCRIPTION:Talk\nTalk: PimpMyApp\nMargaret
 END:VEVENT
 END:VCALENDAR
