@@ -56,6 +56,13 @@ SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - SOCIETY
 DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - SOCIETY\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220909T100000
+DTEND;TZID=Indian/Reunion:20220909T120000
+CATEGORIES:Pitch
+SUMMARY:B-MOO-500 >> Pitch - SOCIETY
+DESCRIPTION:Pitch\nPitch - SOCIETY\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220909T140000
 DTEND;TZID=Indian/Reunion:20220909T160000
 CATEGORIES:Workshop
@@ -168,8 +175,8 @@ SUMMARY:B-MOO-500 >> Workshop - GameStorming
 DESCRIPTION:Workshop\nWorkshop - GameStorming\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220912T093000
-DTEND;TZID=Indian/Reunion:20220912T100000
+DTSTART;TZID=Indian/Reunion:20220912T110000
+DTEND;TZID=Indian/Reunion:20220912T113000
 CATEGORIES:Kick-off
 SUMMARY:B-MOO-500 >> Kick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION
 DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION\nMargaret
@@ -208,5 +215,12 @@ DTEND;TZID=Indian/Reunion:20220914T150000
 CATEGORIES:Talk
 SUMMARY:B-INN-000 >> Talk: PimpMyApp
 DESCRIPTION:Talk\nTalk: PimpMyApp\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221010T160000
+DTEND;TZID=Indian/Reunion:20221010T173000
+CATEGORIES:Conference
+SUMMARY:B-ADM-500 >> Présentation en ligne des campus EPITECH européens
+DESCRIPTION:Conference\nPrésentation en ligne des campus EPITECH européens\nMargaret
 END:VEVENT
 END:VCALENDAR
