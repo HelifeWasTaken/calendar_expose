@@ -210,6 +210,13 @@ SUMMARY:B-MOO-500 >> Workshop - Speed Critic / Straw poll
 DESCRIPTION:Workshop\nWorkshop - Speed Critic / Straw poll\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220916T140000
+DTEND;TZID=Indian/Reunion:20220916T160000
+CATEGORIES:Keynote
+SUMMARY:B-MOO-500 >> Keynote - Moonshot project
+DESCRIPTION:Keynote\nKeynote - Moonshot project\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220914T140000
 DTEND;TZID=Indian/Reunion:20220914T150000
 CATEGORIES:Talk
