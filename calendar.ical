@@ -230,4 +230,11 @@ CATEGORIES:Conference
 SUMMARY:B-ADM-500 >> Présentation en ligne des campus EPITECH européens
 DESCRIPTION:Conference\nPrésentation en ligne des campus EPITECH européens\nMargaret
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221011T180000
+DTEND;TZID=Indian/Reunion:20221011T200000
+CATEGORIES:Conference
+SUMMARY:B-ADM-500 >> Tour des régions - International
+DESCRIPTION:Conference\nTour des régions - International\nMargaret
+END:VEVENT
 END:VCALENDAR
