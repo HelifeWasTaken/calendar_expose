@@ -91,13 +91,6 @@ SUMMARY:B-CPP-500 >> Kick-off - Advanced C++
 DESCRIPTION:Kick-off\nKick-off - Advanced C++\nMargaret
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220920T140000
-DTEND;TZID=Indian/Reunion:20220920T143000
-CATEGORIES:Kick-off
-SUMMARY:B-MOO-501 >> Kick-off - Innovation Track Step 2 - IMPROVE
-DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 2 - IMPROVE\nMargaret
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220905T110000
 DTEND;TZID=Indian/Reunion:20220905T120000
 CATEGORIES:Kick-off
