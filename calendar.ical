@@ -91,6 +91,13 @@ SUMMARY:B-CPP-500 >> Kick-off - Advanced C++
 DESCRIPTION:Kick-off\nKick-off - Advanced C++\nMargaret
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220920T143000
+DTEND;TZID=Indian/Reunion:20220920T163000
+CATEGORIES:Coaching
+SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #1
+DESCRIPTION:Coaching\nKick-off - Sprint Desirability #1\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220905T110000
 DTEND;TZID=Indian/Reunion:20220905T120000
 CATEGORIES:Kick-off
