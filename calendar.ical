@@ -224,6 +224,20 @@ SUMMARY:B-INN-000 >> Talk: PimpMyApp
 DESCRIPTION:Talk\nTalk: PimpMyApp\nMargaret
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220917T093000
+DTEND;TZID=Indian/Reunion:20220917T173000
+CATEGORIES:Hackathon
+SUMMARY:B-INN-000 >> Hackathon : Challenge Greentech Réunion
+DESCRIPTION:Hackathon\nHackathon : Challenge Greentech Réunion\nSalon / Event 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220921T150000
+DTEND;TZID=Indian/Reunion:20220921T153000
+CATEGORIES:Kick-off
+SUMMARY:B-INN-000 >> Enjeux HUB
+DESCRIPTION:Kick-off\nEnjeux HUB\nMargaret
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221010T160000
 DTEND;TZID=Indian/Reunion:20221010T173000
 CATEGORIES:Conference
@@ -236,5 +250,12 @@ DTEND;TZID=Indian/Reunion:20221011T200000
 CATEGORIES:Conference
 SUMMARY:B-ADM-500 >> Tour des régions - International
 DESCRIPTION:Conference\nTour des régions - International\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20220921T160000
+DTEND;TZID=Indian/Reunion:20220921T170000
+CATEGORIES:Review
+SUMMARY:B-INN-000 >> Restitution : Challenge Green Tech
+DESCRIPTION:Review\nRestitution : Challenge Green Tech\nIsaac
 END:VEVENT
 END:VCALENDAR
