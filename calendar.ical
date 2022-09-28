@@ -272,4 +272,11 @@ CATEGORIES:Delivery
 SUMMARY:B-MOO-501 >> Delivery - Sprint Desirability #1
 DESCRIPTION:Delivery\nDelivery - Sprint Desirability #1\nTim + Grace
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221011T140000
+DTEND;TZID=Indian/Reunion:20221011T150000
+CATEGORIES:Conference
+SUMMARY:B-ADM-500 >> One-month briefing
+DESCRIPTION:Conference\nOne-month briefing\nMargaret
+END:VEVENT
 END:VCALENDAR
