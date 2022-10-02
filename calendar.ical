@@ -259,6 +259,20 @@ SUMMARY:B-INN-000 >> Restitution : Challenge Green Tech
 DESCRIPTION:Review\nRestitution : Challenge Green Tech\nIsaac
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221004T160000
+DTEND;TZID=Indian/Reunion:20221004T170000
+CATEGORIES:Follow-up
+SUMMARY:B-CPP-500 >> Follow-up - R-Type
+DESCRIPTION:Follow-up\nFollow-up - R-Type\nAlan
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221004T090000
+DTEND;TZID=Indian/Reunion:20221004T103000
+CATEGORIES:Workshop
+SUMMARY:B-PRO-510 >> Evaluation - Devil's Advocate
+DESCRIPTION:Workshop\nEvaluation - Devil's Advocate\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221004T140000
 DTEND;TZID=Indian/Reunion:20221004T160000
 CATEGORIES:Coaching
