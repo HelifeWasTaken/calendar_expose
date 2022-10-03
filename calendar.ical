@@ -1,19 +1,5 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220902T143000
-DTEND;TZID=Indian/Reunion:20220902T153000
-CATEGORIES:Conference
-SUMMARY:B-ADM-500 >> Administrative start of the year
-DESCRIPTION:Conference\nAdministrative start of the year\nMargaret
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220902T153000
-DTEND;TZID=Indian/Reunion:20220902T173000
-CATEGORIES:Conference
-SUMMARY:B-ADM-500 >> Units introduction
-DESCRIPTION:Conference\nUnits introduction\nMargaret
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220907T100000
 DTEND;TZID=Indian/Reunion:20220907T120000
 CATEGORIES:Pitch
