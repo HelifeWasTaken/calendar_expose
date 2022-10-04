@@ -259,8 +259,8 @@ SUMMARY:B-PRO-510 >> Evaluation - Devil's Advocate
 DESCRIPTION:Workshop\nEvaluation - Devil's Advocate\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221004T140000
-DTEND;TZID=Indian/Reunion:20221004T160000
+DTSTART;TZID=Indian/Reunion:20221005T140000
+DTEND;TZID=Indian/Reunion:20221005T170000
 CATEGORIES:Coaching
 SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #2
 DESCRIPTION:Coaching\nKick-off - Sprint Desirability #2\nTim + Grace
