@@ -84,34 +84,6 @@ SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #1
 DESCRIPTION:Coaching\nKick-off - Sprint Desirability #1\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220905T110000
-DTEND;TZID=Indian/Reunion:20220905T120000
-CATEGORIES:Kick-off
-SUMMARY:B-MOO-500 >> Kick-off - Innovation Track Step 1.1 - RESOLVE
-DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 1.1 - RESOLVE\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220905T130000
-DTEND;TZID=Indian/Reunion:20220905T134500
-CATEGORIES:Conference
-SUMMARY:B-MOO-500 >> Ideation Talk - CLIMAT
-DESCRIPTION:Conference\nIdeation Talk - CLIMAT\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220905T134500
-DTEND;TZID=Indian/Reunion:20220905T143000
-CATEGORIES:Debriefing
-SUMMARY:B-MOO-500 >> Debriefing / Round-table discussion - CLIMAT
-DESCRIPTION:Debriefing\nDebriefing / Round-table discussion - CLIMAT\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220905T160000
-DTEND;TZID=Indian/Reunion:20220905T180000
-CATEGORIES:Workshop
-SUMMARY:B-MOO-500 >> Coaching
-DESCRIPTION:Workshop\nCoaching\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220906T090000
 DTEND;TZID=Indian/Reunion:20220906T100000
 CATEGORIES:Follow-up
@@ -142,13 +114,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220907T150000
 DTEND;TZID=Indian/Reunion:20220907T154500
-CATEGORIES:Workshop
-SUMMARY:B-MOO-500 >> Workshop - GameStorming
-DESCRIPTION:Workshop\nWorkshop - GameStorming\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220905T150000
-DTEND;TZID=Indian/Reunion:20220905T154500
 CATEGORIES:Workshop
 SUMMARY:B-MOO-500 >> Workshop - GameStorming
 DESCRIPTION:Workshop\nWorkshop - GameStorming\nTim + Grace
@@ -278,5 +243,12 @@ DTEND;TZID=Indian/Reunion:20221011T150000
 CATEGORIES:Conference
 SUMMARY:B-ADM-500 >> One-month briefing
 DESCRIPTION:Conference\nOne-month briefing\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221021T150000
+DTEND;TZID=Indian/Reunion:20221021T180000
+CATEGORIES:Pitch
+SUMMARY:B-MOO-501 >> Warm-Up Day - Tech3
+DESCRIPTION:Pitch\nWarm-Up Day - Tech3\nMargaret
 END:VEVENT
 END:VCALENDAR
