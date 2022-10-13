@@ -28,13 +28,6 @@ SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #1
 DESCRIPTION:Coaching\nKick-off - Sprint Desirability #1\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220912T110000
-DTEND;TZID=Indian/Reunion:20220912T113000
-CATEGORIES:Kick-off
-SUMMARY:B-MOO-500 >> Kick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION
-DESCRIPTION:Kick-off\nKick-off - Innovation Track Step 1.2 - #RESOLVE #SOLUTION\nMargaret
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220913T093000
 DTEND;TZID=Indian/Reunion:20220913T110000
 CATEGORIES:Workshop
