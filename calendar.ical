@@ -14,18 +14,11 @@ SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #1
 DESCRIPTION:Coaching\nKick-off - Sprint Desirability #1\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220914T093000
-DTEND;TZID=Indian/Reunion:20220914T110000
-CATEGORIES:Workshop
-SUMMARY:B-MOO-500 >> Workshop - Art museum / Heat maps
-DESCRIPTION:Workshop\nWorkshop - Art museum / Heat maps\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220914T110000
-DTEND;TZID=Indian/Reunion:20220914T123000
-CATEGORIES:Workshop
-SUMMARY:B-MOO-500 >> Workshop - Speed Critic / Straw poll
-DESCRIPTION:Workshop\nWorkshop - Speed Critic / Straw poll\nTim + Grace
+DTSTART;TZID=Indian/Reunion:20221018T100000
+DTEND;TZID=Indian/Reunion:20221018T120000
+CATEGORIES:TEPitech
+SUMMARY:B-ANG-058 >> Self-assessment TEPitech
+DESCRIPTION:TEPitech\nSelf-assessment TEPitech\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220916T140000
@@ -33,13 +26,6 @@ DTEND;TZID=Indian/Reunion:20220916T160000
 CATEGORIES:Keynote
 SUMMARY:B-MOO-500 >> Keynote - Moonshot project
 DESCRIPTION:Keynote\nKeynote - Moonshot project\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220914T140000
-DTEND;TZID=Indian/Reunion:20220914T150000
-CATEGORIES:Talk
-SUMMARY:B-INN-000 >> Talk: PimpMyApp
-DESCRIPTION:Talk\nTalk: PimpMyApp\nMargaret
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20220917T093000
@@ -110,6 +96,20 @@ DTEND;TZID=Indian/Reunion:20221011T150000
 CATEGORIES:Conference
 SUMMARY:B-ADM-500 >> One-month briefing
 DESCRIPTION:Conference\nOne-month briefing\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221018T140000
+DTEND;TZID=Indian/Reunion:20221018T143000
+CATEGORIES:Kick-off
+SUMMARY:B-CPP-500 >> Kick-off - Advanced C++ - Part 2
+DESCRIPTION:Kick-off\nKick-off - Advanced C++ - Part 2\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221019T170000
+DTEND;TZID=Indian/Reunion:20221019T180000
+CATEGORIES:Defense
+SUMMARY:B-CPP-500 >> Defense - R-Type - Architecture and Game Prototype
+DESCRIPTION:Defense\nDefense - R-Type - Architecture and Game Prototype\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221021T150000
