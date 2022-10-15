@@ -98,6 +98,20 @@ SUMMARY:B-ADM-500 >> One-month briefing
 DESCRIPTION:Conference\nOne-month briefing\nMargaret
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221019T140000
+DTEND;TZID=Indian/Reunion:20221019T170000
+CATEGORIES:Delivery
+SUMMARY:B-MOO-501 >> Delivery - Sprint Desirability #2
+DESCRIPTION:Delivery\nDelivery - Sprint Desirability #2\nMarissa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221019T140000
+DTEND;TZID=Indian/Reunion:20221019T170000
+CATEGORIES:Coaching
+SUMMARY:B-MOO-501 >> Kick-off - Sprint Viability
+DESCRIPTION:Coaching\nKick-off - Sprint Viability\nMarissa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221018T140000
 DTEND;TZID=Indian/Reunion:20221018T143000
 CATEGORIES:Kick-off
