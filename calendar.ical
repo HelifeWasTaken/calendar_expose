@@ -1,24 +1,10 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220920T160000
-DTEND;TZID=Indian/Reunion:20220920T180000
-CATEGORIES:Coaching
-SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #1
-DESCRIPTION:Coaching\nKick-off - Sprint Desirability #1\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221018T100000
 DTEND;TZID=Indian/Reunion:20221018T120000
 CATEGORIES:TEPitech
 SUMMARY:B-ANG-058 >> Self-assessment TEPitech
 DESCRIPTION:TEPitech\nSelf-assessment TEPitech\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220921T150000
-DTEND;TZID=Indian/Reunion:20220921T153000
-CATEGORIES:Kick-off
-SUMMARY:B-INN-000 >> Enjeux HUB
-DESCRIPTION:Kick-off\nEnjeux HUB\nMargaret
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221010T160000
@@ -33,13 +19,6 @@ DTEND;TZID=Indian/Reunion:20221011T200000
 CATEGORIES:Conference
 SUMMARY:B-ADM-500 >> Tour des régions - International
 DESCRIPTION:Conference\nTour des régions - International\nMargaret
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20220921T160000
-DTEND;TZID=Indian/Reunion:20220921T170000
-CATEGORIES:Review
-SUMMARY:B-INN-000 >> Restitution : Challenge Green Tech
-DESCRIPTION:Review\nRestitution : Challenge Green Tech\nIsaac
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221004T160000
