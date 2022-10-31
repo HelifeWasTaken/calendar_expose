@@ -7,6 +7,13 @@ SUMMARY:B-ANG-058 >> Self-assessment TEPitech
 DESCRIPTION:TEPitech\nSelf-assessment TEPitech\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221108T140000
+DTEND;TZID=Indian/Reunion:20221108T160000
+CATEGORIES:TEPitech
+SUMMARY:B-ANG-058 >> TEPitech
+DESCRIPTION:TEPitech\nTEPitech\nDennis + Ada
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221010T160000
 DTEND;TZID=Indian/Reunion:20221010T173000
 CATEGORIES:Conference
@@ -103,5 +110,19 @@ DTEND;TZID=Indian/Reunion:20221121T183000
 CATEGORIES:Follow-up
 SUMMARY:B-ADM-500 >> 4th year abroad
 DESCRIPTION:Follow-up\n4th year abroad\nMarissa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221102T140000
+DTEND;TZID=Indian/Reunion:20221102T160000
+CATEGORIES:Delivery
+SUMMARY:B-MOO-501 >> Delivery - Sprint Viability
+DESCRIPTION:Delivery\nDelivery - Sprint Viability\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221102T140000
+DTEND;TZID=Indian/Reunion:20221102T160000
+CATEGORIES:Coaching
+SUMMARY:B-MOO-501 >> Kick-off - Sprint Faisability
+DESCRIPTION:Coaching\nKick-off - Sprint Faisability\nTim + Grace
 END:VEVENT
 END:VCALENDAR
