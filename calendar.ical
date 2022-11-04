@@ -28,20 +28,6 @@ SUMMARY:B-ADM-500 >> Tour des régions - International
 DESCRIPTION:Conference\nTour des régions - International\nMargaret
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221004T160000
-DTEND;TZID=Indian/Reunion:20221004T170000
-CATEGORIES:Follow-up
-SUMMARY:B-CPP-500 >> Follow-up - R-Type
-DESCRIPTION:Follow-up\nFollow-up - R-Type\nAlan
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221004T090000
-DTEND;TZID=Indian/Reunion:20221004T103000
-CATEGORIES:Workshop
-SUMMARY:B-PRO-510 >> Evaluation - Devil's Advocate
-DESCRIPTION:Workshop\nEvaluation - Devil's Advocate\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221005T140000
 DTEND;TZID=Indian/Reunion:20221005T170000
 CATEGORIES:Coaching
@@ -124,5 +110,12 @@ DTEND;TZID=Indian/Reunion:20221102T160000
 CATEGORIES:Coaching
 SUMMARY:B-MOO-501 >> Kick-off - Sprint Faisability
 DESCRIPTION:Coaching\nKick-off - Sprint Faisability\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221115T150000
+DTEND;TZID=Indian/Reunion:20221115T170000
+CATEGORIES:Delivery
+SUMMARY:B-MOO-501 >> Delivery - Sprint Faisability
+DESCRIPTION:Delivery\nDelivery - Sprint Faisability\nTim + Grace
 END:VEVENT
 END:VCALENDAR
