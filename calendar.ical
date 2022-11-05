@@ -28,20 +28,6 @@ SUMMARY:B-ADM-500 >> Tour des régions - International
 DESCRIPTION:Conference\nTour des régions - International\nMargaret
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221005T140000
-DTEND;TZID=Indian/Reunion:20221005T170000
-CATEGORIES:Coaching
-SUMMARY:B-MOO-501 >> Kick-off - Sprint Desirability #2
-DESCRIPTION:Coaching\nKick-off - Sprint Desirability #2\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221005T140000
-DTEND;TZID=Indian/Reunion:20221005T170000
-CATEGORIES:Delivery
-SUMMARY:B-MOO-501 >> Delivery - Sprint Desirability #1
-DESCRIPTION:Delivery\nDelivery - Sprint Desirability #1\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221011T140000
 DTEND;TZID=Indian/Reunion:20221011T150000
 CATEGORIES:Conference
