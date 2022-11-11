@@ -14,27 +14,6 @@ SUMMARY:B-ANG-058 >> TEPitech
 DESCRIPTION:TEPitech\nTEPitech\nDennis + Ada
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221010T160000
-DTEND;TZID=Indian/Reunion:20221010T173000
-CATEGORIES:Conference
-SUMMARY:B-ADM-500 >> Présentation en ligne des campus EPITECH européens
-DESCRIPTION:Conference\nPrésentation en ligne des campus EPITECH européens\nMargaret
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221011T180000
-DTEND;TZID=Indian/Reunion:20221011T200000
-CATEGORIES:Conference
-SUMMARY:B-ADM-500 >> Tour des régions - International
-DESCRIPTION:Conference\nTour des régions - International\nMargaret
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221011T140000
-DTEND;TZID=Indian/Reunion:20221011T150000
-CATEGORIES:Conference
-SUMMARY:B-ADM-500 >> One-month briefing
-DESCRIPTION:Conference\nOne-month briefing\nMargaret
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221019T140000
 DTEND;TZID=Indian/Reunion:20221019T170000
 CATEGORIES:Delivery
@@ -77,8 +56,8 @@ SUMMARY:B-CPP-500 >> Follow-up - R-Type
 DESCRIPTION:Follow-up\nFollow-up - R-Type\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221121T163000
-DTEND;TZID=Indian/Reunion:20221121T183000
+DTSTART;TZID=Indian/Reunion:20221114T160000
+DTEND;TZID=Indian/Reunion:20221114T180000
 CATEGORIES:Follow-up
 SUMMARY:B-ADM-500 >> 4th year abroad
 DESCRIPTION:Follow-up\n4th year abroad\nMarissa
@@ -98,10 +77,38 @@ SUMMARY:B-MOO-501 >> Kick-off - Sprint Faisability
 DESCRIPTION:Coaching\nKick-off - Sprint Faisability\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221121T090000
+DTEND;TZID=Indian/Reunion:20221121T094500
+CATEGORIES:Coaching
+SUMMARY:B-MOO-501 >> Kick-off - Sprint Mission Model Canvas
+DESCRIPTION:Coaching\nKick-off - Sprint Mission Model Canvas\nTim
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221114T150000
+DTEND;TZID=Indian/Reunion:20221114T160000
+CATEGORIES:Defense
+SUMMARY:B-CPP-500 >> Defense - R-Type - Finale
+DESCRIPTION:Defense\nDefense - R-Type - Finale\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221115T090000
+DTEND;TZID=Indian/Reunion:20221115T100000
+CATEGORIES:Workshop
+SUMMARY:B-PRO-510 >> Evaluation - Professional memo
+DESCRIPTION:Workshop\nEvaluation - Professional memo\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221115T150000
 DTEND;TZID=Indian/Reunion:20221115T170000
 CATEGORIES:Delivery
 SUMMARY:B-MOO-501 >> Delivery - Sprint Faisability
 DESCRIPTION:Delivery\nDelivery - Sprint Faisability\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221114T110000
+DTEND;TZID=Indian/Reunion:20221114T120000
+CATEGORIES:Conference
+SUMMARY:B-ADM-500 >> Two-month briefing
+DESCRIPTION:Conference\nTwo-month briefing\nMargaret
 END:VEVENT
 END:VCALENDAR
