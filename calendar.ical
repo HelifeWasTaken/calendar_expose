@@ -118,4 +118,11 @@ CATEGORIES:Conference
 SUMMARY:B-ADM-500 >> Two-month briefing
 DESCRIPTION:Conference\nTwo-month briefing\nMargaret
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221118T150000
+DTEND;TZID=Indian/Reunion:20221118T190000
+CATEGORIES:Hackathon
+SUMMARY:B-INN-000 >> #HACKATON : Volcano Gama Jam
+DESCRIPTION:Hackathon\n#HACKATON : Volcano Gama Jam\nTout Open Space
+END:VEVENT
 END:VCALENDAR
