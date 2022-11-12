@@ -49,6 +49,13 @@ SUMMARY:B-MOO-501 >> Warm-Up Day - Tech3
 DESCRIPTION:Pitch\nWarm-Up Day - Tech3\nMargaret
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221115T100000
+DTEND;TZID=Indian/Reunion:20221115T113000
+CATEGORIES:Talk
+SUMMARY:B-INN-000 >> #TALK : Fonctions bloquantes vs Réactivité sur Robot Mobile - ROBOTIC 974
+DESCRIPTION:Talk\n#TALK : Fonctions bloquantes vs Réactivité sur Robot Mobile - ROBOTIC 974\nMargaret
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221026T160000
 DTEND;TZID=Indian/Reunion:20221026T170000
 CATEGORIES:Follow-up
