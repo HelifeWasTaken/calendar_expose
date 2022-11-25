@@ -97,4 +97,18 @@ CATEGORIES:Hackathon
 SUMMARY:B-INN-000 >> #HACKATON : Volcano Gama Jam
 DESCRIPTION:Hackathon\n#HACKATON : Volcano Gama Jam\nTout Open Space
 END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221125T160000
+DTEND;TZID=Indian/Reunion:20221125T170000
+CATEGORIES:Talk
+SUMMARY:B-INN-000 >> #TALK : Retour expérience Alumni - Nicolas AH-LEUNG promo 2022
+DESCRIPTION:Talk\n#TALK : Retour expérience Alumni - Nicolas AH-LEUNG promo 2022\nMargaret
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221206T090000
+DTEND;TZID=Indian/Reunion:20221206T113000
+CATEGORIES:Defense
+SUMMARY:B-SEC-500 >> Defense - Chisel
+DESCRIPTION:Defense\nDefense - Chisel\nGrace
+END:VEVENT
 END:VCALENDAR
