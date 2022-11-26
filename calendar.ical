@@ -14,13 +14,6 @@ SUMMARY:B-INN-000 >> #TALK : Fonctions bloquantes vs Réactivité sur Robot Mobi
 DESCRIPTION:Talk\n#TALK : Fonctions bloquantes vs Réactivité sur Robot Mobile - ROBOTIC 974\nMargaret
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221026T160000
-DTEND;TZID=Indian/Reunion:20221026T170000
-CATEGORIES:Follow-up
-SUMMARY:B-CPP-500 >> Follow-up - R-Type
-DESCRIPTION:Follow-up\nFollow-up - R-Type\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221114T160000
 DTEND;TZID=Indian/Reunion:20221114T180000
 CATEGORIES:Follow-up
@@ -96,6 +89,13 @@ DTEND;TZID=Indian/Reunion:20221118T190000
 CATEGORIES:Hackathon
 SUMMARY:B-INN-000 >> #HACKATON : Volcano Gama Jam
 DESCRIPTION:Hackathon\n#HACKATON : Volcano Gama Jam\nTout Open Space
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221130T160000
+DTEND;TZID=Indian/Reunion:20221130T170000
+CATEGORIES:Follow-up
+SUMMARY:B-AIA-500 >> Follow-up - Gomoku
+DESCRIPTION:Follow-up\nFollow-up - Gomoku\nGrace
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221125T160000
