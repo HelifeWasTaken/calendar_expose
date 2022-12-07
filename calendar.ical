@@ -63,11 +63,32 @@ SUMMARY:B-ADM-500 >> Two-month briefing
 DESCRIPTION:Conference\nTwo-month briefing\nMargaret
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221104T090000
-DTEND;TZID=Indian/Reunion:20221104T190000
-CATEGORIES:Hackathon
-SUMMARY:B-INN-000 >> #HACKATHON : Start-up School Camp - TECHNOPOLE
-DESCRIPTION:Hackathon\n#HACKATHON : Start-up School Camp - TECHNOPOLE\nSalon / Event 
+DTSTART;TZID=Indian/Reunion:20221208T093000
+DTEND;TZID=Indian/Reunion:20221208T103000
+CATEGORIES:Workshop
+SUMMARY:B-PCP-000 >> SYI : Create and update your CV and covering letters
+DESCRIPTION:Workshop\nSYI : Create and update your CV and covering letters\nMarissa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221208T103000
+DTEND;TZID=Indian/Reunion:20221208T113000
+CATEGORIES:Workshop
+SUMMARY:B-PCP-000 >> SYI : Sharpen your job search techniques
+DESCRIPTION:Workshop\nSYI : Sharpen your job search techniques\nMarissa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221208T160000
+DTEND;TZID=Indian/Reunion:20221208T170000
+CATEGORIES:Workshop
+SUMMARY:B-PCP-000 >> 4- Préparer et maîtriser son entretien d'embauche et gérer l'après
+DESCRIPTION:Workshop\n4- Préparer et maîtriser son entretien d'embauche et gérer l'après\nMarissa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221208T170000
+DTEND;TZID=Indian/Reunion:20221208T180000
+CATEGORIES:Workshop
+SUMMARY:B-PCP-000 >> 5- Appréhender ses prériodes de stage en entreprise
+DESCRIPTION:Workshop\n5- Appréhender ses prériodes de stage en entreprise\nMarissa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221118T150000
@@ -84,11 +105,46 @@ SUMMARY:B-AIA-500 >> Follow-up - Gomoku
 DESCRIPTION:Follow-up\nFollow-up - Gomoku\nGrace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221207T140000
+DTEND;TZID=Indian/Reunion:20221207T160000
+CATEGORIES:Delivery
+SUMMARY:B-MOO-501 >> Delivery - Sprint Mission Model Canvas
+DESCRIPTION:Delivery\nDelivery - Sprint Mission Model Canvas\nGrace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221205T090000
 DTEND;TZID=Indian/Reunion:20221205T190000
 CATEGORIES:Project time
 SUMMARY:B-MOO-502 >> Forward - Day 01
 DESCRIPTION:Project time\nForward - Day 01\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221207T090000
+DTEND;TZID=Indian/Reunion:20221207T190000
+CATEGORIES:Project time
+SUMMARY:B-MOO-502 >> Forward - Day 03
+DESCRIPTION:Project time\nForward - Day 03\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221208T090000
+DTEND;TZID=Indian/Reunion:20221208T190000
+CATEGORIES:Project time
+SUMMARY:B-MOO-502 >> Forward - Day 04
+DESCRIPTION:Project time\nForward - Day 04\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221209T090000
+DTEND;TZID=Indian/Reunion:20221209T190000
+CATEGORIES:Project time
+SUMMARY:B-MOO-502 >> Forward - Day 05
+DESCRIPTION:Project time\nForward - Day 05\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221208T100000
+DTEND;TZID=Indian/Reunion:20221208T130000
+CATEGORIES:Follow-up
+SUMMARY:B-MOO-502 >> Forward - Follow-up
+DESCRIPTION:Follow-up\nForward - Follow-up\nGrace
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221125T160000
