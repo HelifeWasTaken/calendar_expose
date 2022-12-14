@@ -168,6 +168,13 @@ SUMMARY:B-MOO-502 >> Forward - Day 10
 DESCRIPTION:Project time\nForward - Day 10\nTim + Grace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221213T140000
+DTEND;TZID=Indian/Reunion:20221213T160000
+CATEGORIES:Follow-up
+SUMMARY:B-MOO-502 >> Forward - Follow-up
+DESCRIPTION:Follow-up\nForward - Follow-up\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221125T160000
 DTEND;TZID=Indian/Reunion:20221125T170000
 CATEGORIES:Talk
@@ -180,5 +187,12 @@ DTEND;TZID=Indian/Reunion:20221206T113000
 CATEGORIES:Defense
 SUMMARY:B-SEC-500 >> Defense - Chisel
 DESCRIPTION:Defense\nDefense - Chisel\nGrace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221214T100000
+DTEND;TZID=Indian/Reunion:20221214T113000
+CATEGORIES:Coaching
+SUMMARY:B-MOO-502 >> Kick-off - Sprint Communication
+DESCRIPTION:Coaching\nKick-off - Sprint Communication\nTim + Grace
 END:VEVENT
 END:VCALENDAR
