@@ -1,59 +1,10 @@
 BEGIN:VCALENDAR
 BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221115T100000
-DTEND;TZID=Indian/Reunion:20221115T113000
-CATEGORIES:Talk
-SUMMARY:B-INN-000 >> #TALK : Fonctions bloquantes vs Réactivité sur Robot Mobile - ROBOTIC 974
-DESCRIPTION:Talk\n#TALK : Fonctions bloquantes vs Réactivité sur Robot Mobile - ROBOTIC 974\nMargaret
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221114T160000
-DTEND;TZID=Indian/Reunion:20221114T180000
-CATEGORIES:Follow-up
-SUMMARY:B-ADM-500 >> 4th year abroad
-DESCRIPTION:Follow-up\n4th year abroad\nMarissa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221116T160000
-DTEND;TZID=Indian/Reunion:20221116T170000
-CATEGORIES:Review
-SUMMARY:B-INN-000 >> Review HUB
-DESCRIPTION:Review\nReview HUB\nMargaret
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221121T090000
 DTEND;TZID=Indian/Reunion:20221121T094500
 CATEGORIES:Coaching
 SUMMARY:B-MOO-501 >> Kick-off - Sprint Mission Model Canvas
 DESCRIPTION:Coaching\nKick-off - Sprint Mission Model Canvas\nTim
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221114T150000
-DTEND;TZID=Indian/Reunion:20221114T160000
-CATEGORIES:Defense
-SUMMARY:B-CPP-500 >> Defense - R-Type - Finale
-DESCRIPTION:Defense\nDefense - R-Type - Finale\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221115T090000
-DTEND;TZID=Indian/Reunion:20221115T100000
-CATEGORIES:Workshop
-SUMMARY:B-PRO-510 >> Evaluation - Professional memo
-DESCRIPTION:Workshop\nEvaluation - Professional memo\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221115T150000
-DTEND;TZID=Indian/Reunion:20221115T170000
-CATEGORIES:Delivery
-SUMMARY:B-MOO-501 >> Delivery - Sprint Faisability
-DESCRIPTION:Delivery\nDelivery - Sprint Faisability\nTim + Grace
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221114T110000
-DTEND;TZID=Indian/Reunion:20221114T120000
-CATEGORIES:Conference
-SUMMARY:B-ADM-500 >> Two-month briefing
-DESCRIPTION:Conference\nTwo-month briefing\nMargaret
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221208T093000
@@ -82,13 +33,6 @@ DTEND;TZID=Indian/Reunion:20221208T180000
 CATEGORIES:Workshop
 SUMMARY:B-PCP-000 >> 5- Appréhender ses prériodes de stage en entreprise
 DESCRIPTION:Workshop\n5- Appréhender ses prériodes de stage en entreprise\nMarissa
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Indian/Reunion:20221118T150000
-DTEND;TZID=Indian/Reunion:20221118T190000
-CATEGORIES:Hackathon
-SUMMARY:B-INN-000 >> #HACKATON : Volcano Gama Jam
-DESCRIPTION:Hackathon\n#HACKATON : Volcano Gama Jam\nTout Open Space
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221130T160000
@@ -189,10 +133,38 @@ SUMMARY:B-SEC-500 >> Defense - Chisel
 DESCRIPTION:Defense\nDefense - Chisel\nGrace
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221220T210000
+DTEND;TZID=Indian/Reunion:20221220T233000
+CATEGORIES:Workshop
+SUMMARY:B-INN-000 >> Workshop PoC AI - PyTorch
+DESCRIPTION:Workshop\nWorkshop PoC AI - PyTorch
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221221T210000
+DTEND;TZID=Indian/Reunion:20221221T233000
+CATEGORIES:Workshop
+SUMMARY:B-INN-000 >> Workshop PoC Software - GitHub Actions
+DESCRIPTION:Workshop\nWorkshop PoC Software - GitHub Actions
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221216T140000
+DTEND;TZID=Indian/Reunion:20221216T180000
+CATEGORIES:Pitch
+SUMMARY:B-MOO-502 >> Forward - Prototype presentation
+DESCRIPTION:Pitch\nForward - Prototype presentation\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Indian/Reunion:20221214T100000
 DTEND;TZID=Indian/Reunion:20221214T113000
 CATEGORIES:Coaching
 SUMMARY:B-MOO-502 >> Kick-off - Sprint Communication
 DESCRIPTION:Coaching\nKick-off - Sprint Communication\nTim + Grace
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Reunion:20221220T180000
+DTEND;TZID=Indian/Reunion:20221220T190000
+CATEGORIES:Talk
+SUMMARY:B-INN-000 >> [HUBTALK] : Les coulisses techniques derrière la réussite d'une startup (offre de stages tek3 chez AllSquare)
+DESCRIPTION:Talk\n[HUBTALK] : Les coulisses techniques derrière la réussite d'une startup (offre de stages tek3 chez AllSquare)\nTeams
 END:VEVENT
 END:VCALENDAR
